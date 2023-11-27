@@ -1,0 +1,24 @@
+[
+    {
+        "CC": "/usr/bin/gcc",
+        "CXX": "/usr/bin/g++",
+        "configs": [
+            "-O2",
+            "-O2",
+            "-O2",
+            "-O2",
+            "-O2"
+        ]
+    },
+    {
+        "CC": "/usr/bin/clang-12",
+        "CXX": "/usr/bin/clang++-12",
+        "configs": [
+            "-O2",
+            "-O2",
+            "-O2",
+            "-O2",
+            "-O2"
+        ]
+    }
+]
